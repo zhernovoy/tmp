@@ -1,0 +1,494 @@
+<?xml version="1.0" ?>
+<yml_catalog date="2025-03-11 20:22">
+    <shop>
+        <name>Handy Beast</name>
+        <company>Handy Beast</company>
+        <url>https://handybeast.com</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Кожаные изделия</category>
+            <category id="2">Ножи</category>
+            <category id="3">Аксессуары</category>
+        </categories>
+        <offers>
+            <offer id="1" available="true">
+                <name>Кошелек</name>
+                <url>https://handybeast.com/кошелек</url>
+                <price>5200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/94/f8/63b075eba496d700ee5e9b0f066b--sumki-i-aksessuary-koshelek.jpg</picture>
+                <description>Кошелек из толстой кожи растительного дубления. Ручной шов. Пропитка натуральными восками. Неубиваемая вещь. Со временем делается все винтажнее и винтажнее)Можно прошить нитками любого цвета.</description>
+            </offer>
+            <offer id="2" available="true">
+                <name>Тяжелое портмоне</name>
+                <url>https://handybeast.com/тяжелое-портмоне</url>
+                <price>5500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/81/14/f4f7bc8607130ed2656490e87dx6--sumki-i-aksessuary-tyazheloe-portmone.jpg</picture>
+                <description>Тяжелое толстое портмоне из толстой кожи. Отделения под кредитки, деньги, техпаспорт, документы. Фиксируется на кнопку. Возможно подвесить на ремень. Прошит вручную седельным швом. Изготовить можно в различных вариациях под запросы заказчика.</description>
+            </offer>
+            <offer id="3" available="true">
+                <name>Ремень с кованой пряжкой</name>
+                <url>https://handybeast.com/ремень-с-кованой-пряжкой</url>
+                <price>3200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/6e/9a/a0295653d42db1bf837dd2e8d8qt--aksessuary-remen-s-kovanoj-pryazhkoj.jpg</picture>
+                <description>Мы делаем ремни только из натуральной кожи высочайшего качества, которая прослужит вам долгие годы. Не спилок, не прессовка, не кожзам. Только цельный кусок толстой кожи.Обрабатываем ремни только натуральными восками и маслами. Прошиваем вручную седельным швом.Пряжка - кованная нержавеющая сталь. Куется вручную, у каждой пряжки неповторимый рисунок. Никакой силумини и прочей гадости. Только олдскул. Ширина ремня возможна 38 мм и 44 мм(под джинсы)Каждый ремень упаковывается в подарочную упаковку.Длина ремня делается по вашим размерам. Возможно нанесение логотопов, инициалов и тд</description>
+            </offer>
+            <offer id="4" available="true">
+                <name>Ремень с кованой пряжкой #2</name>
+                <url>https://handybeast.com/ремень-с-кованой-пряжкой-#2</url>
+                <price>3200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/98/65/ecc4f23c49d52d34637f8fd6b462--aksessuary-remen-s-kovanoj-pryazhkoj-2.jpg</picture>
+                <description>Мы делаем ремни только из натуральной кожи высочайшего качества, которая прослужит вам долгие годы. Не спилок, не прессовка, не кожзам. Только цельный кусок толстой кожи.Обрабатываем ремни только натуральными восками и маслами. Прошиваем вручную седельным швом.Пряжка - кованная нержавеющая сталь. Куется вручную, у каждой пряжки неповторимый рисунок. Никакого силумина и прочей гадости. Только олдскул. Ширина ремня возможна 38 мм и 44 мм(под джинсы)Каждый ремень упаковывается в подарочную упаковку.Длина ремня делается по вашим размерам. Возможно нанесение логотопов, инициалов и тд</description>
+            </offer>
+            <offer id="5" available="true">
+                <name>Футляр для очков</name>
+                <url>https://handybeast.com/футляр-для-очков</url>
+                <price>2800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/65/32/1ec53e7e0449b6d6f4f975a787ah--sumki-i-aksessuary-futlyar-dlya-ochkov.jpg</picture>
+                <description>Футляр для очков из толстой натуральной кожи. Ручная работа, прошито руками седельным швом. Пропитка смесью восков. Возможен однородный цвет, тонировка, разный цвет нитей.</description>
+            </offer>
+            <offer id="6" available="true">
+                <name>Картхолдер для авто и мото документов</name>
+                <url>https://handybeast.com/картхолдер-для-авто-и-мото-документов</url>
+                <price>2200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/0c/00/e52811167d0772c3741b937cfbvd--sumki-i-aksessuary-kartholder-dlya-avto-i-moto-dokumentov.jpg</picture>
+                <description>Удобный картхолдер для авто-мото доков. Возможно исполнение как с карабином для крепления, так и без. Можно нанести любые логотипы</description>
+            </offer>
+            <offer id="7" available="true">
+                <name>Картхолдеры</name>
+                <url>https://handybeast.com/картхолдеры</url>
+                <price>2200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/12/75/f7974d7eff935a3ff33c4c7150t9--sumki-i-aksessuary-kartholdery.jpg</picture>
+                <description>Картхолдеры для хранения различного количества карт. Натуральная кожа растительного дубления, ручная прошивка. " отделения под карты, одно под купюры. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="8" available="true">
+                <name>Кошелек "Бесконечность"</name>
+                <url>https://handybeast.com/кошелек-"бесконечность"</url>
+                <price>3200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/31/79/d67b6382430e29b324570e7c1bbo--sumki-i-aksessuary-koshelek-beskonechnost.jpg</picture>
+                <description>Кожа растительного дубления 1.3 мм толщиной, ручной седельный шов. 5 отделений под карты, одно полноразмерное для купюр. Тонирование, тиснение. Возможно нанести ваши инициалы.</description>
+            </offer>
+            <offer id="9" available="true">
+                <name>Ремень с пряжкой из нержавеющей стали</name>
+                <url>https://handybeast.com/ремень-с-пряжкой-из-нержавеющей-стали</url>
+                <price>3000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/ea/55/4fe2e5ba0c61f43cb1cc8341233a--aksessuary-remen-s-pryazhkoj-iz-nerzhaveyuschej-stali.jpg</picture>
+                <description>Мы делаем ремни только из натуральной кожи высочайшего качества, которая прослужит вам долгие годы. Не спилок, не прессовка, не кожзам. Только цельный кусок толстой кожи.Обрабатываем ремни только натуральными восками и маслами. Прошиваем вручную седельным швом.Пряжка -нержавеющая сталь. Никакого силумина и прочей гадости. Только олдскул. Ширина ремня 38 мм (под джинсы)Каждый ремень упаковывается в подарочную упаковку.Длина ремня делается по вашим размерам. Возможно нанесение логотопов, инициалов и тд</description>
+            </offer>
+            <offer id="10" available="true">
+                <name>Ремень с литой латунной пряжкой</name>
+                <url>https://handybeast.com/ремень-с-литой-латунной-пряжкой</url>
+                <price>3000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/fe/87/7f55d8b58548fa4af4901e83b2oe--aksessuary-remen-s-litoj-latunnoj-pryazhkoj.jpg</picture>
+                <description>Мы делаем ремни только из натуральной кожи высочайшего качества, которая прослужит вам долгие годы. Не спилок, не прессовка, не кожзам. Только цельный кусок толстой кожи.Обрабатываем ремни только натуральными восками и маслами. Прошиваем вручную седельным швом.Пряжка -литая латунь. Никакого силумина и прочей гадости. Только олдскул. Ширина ремня 38 мм (под джинсы)Каждый ремень упаковывается в подарочную упаковку.Длина ремня делается по вашим размерам. Возможно нанесение логотопов, инициалов и тд</description>
+            </offer>
+            <offer id="11" available="true">
+                <name>Чехол на газовый баллон</name>
+                <url>https://handybeast.com/чехол-на-газовый-баллон</url>
+                <price>2500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/f3/a4/d6b25dfdacec59647b837a6986os--dlya-doma-i-interera-chehol-na-gazovyj-ballon.jpg</picture>
+                <description>Чехол из кожи на газовый баллон для туристической горелки/свечи. Кожа растительного дубления. Полностью ручная работа. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа. Баллон и свеча в комплект не входят.</description>
+            </offer>
+            <offer id="12" available="true">
+                <name>Байкерский подсумок</name>
+                <url>https://handybeast.com/байкерский-подсумок</url>
+                <price>6000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/c9/d8/aae2b19fe3c01cdacd68a4dc03n3--sumki-i-aksessuary-bajkerskij-podsumok.jpg</picture>
+                <description>Байкерский подсумок на ремень из толстой бычьей кожи растительной выделки. Ручной седельный шов. Возможно нанесение логотипов.</description>
+            </offer>
+            <offer id="13" available="true">
+                <name>Чехол для игральных карт</name>
+                <url>https://handybeast.com/чехол-для-игральных-карт</url>
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/cd/f5/3f820b6c53eef09dabc39ca502kt--sumki-i-aksessuary-chehol-dlya-igralnyh-kart.jpg</picture>
+                <description>Могучий формованный чехол из толстой кожи растительного дубления. Ручной седельный шов, пропитка воском. Для ценителей. Возможно изготовление под другие размеры ( карты таро и т.д.). Можно нанести логотипы, инициалы и т.п.</description>
+            </offer>
+            <offer id="14" available="true">
+                <name>Брелок-чехол для медиатора</name>
+                <url>https://handybeast.com/брелок-чехол-для-медиатора</url>
+                <price>300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/52/ba/3679e12d464305459b23c631951x--sumki-i-aksessuary-brelok-chehol-dlya-mediatora.jpg</picture>
+                <description>Чехол для гитарного медиатора. Оригинальная и веселая вещь. Отличный подарок для любого гитариста.</description>
+            </offer>
+            <offer id="15" available="true">
+                <name>R12 Блоха</name>
+                <url>https://handybeast.com/r12-блоха</url>
+                <price>5500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/1b/46/60da907655bee35f509aab7b8dso--suveniry-i-podarki-r12-bloha.jpg</picture>
+                <description>Маленький шустрый шейник - сумочник. Идеальный подарок для любимой женщины. Накладки на рукояти выполняются из G-10, микарты или стабилизированной древесины. После закалки клинок имеет твердость 59-61 ед. по Роквеллу. По нашему мнению это оптимальная твердость для рабочего ножа. Увеличение твердости ведет к повышению хрупкости, что критично при ударных нагрузках. Снижение твердости не позволяет ножу долго держать заточку. Хотя, при этом нож гораздо легче точить в полевых условиях. В базовой версии нож идет из стали D2/Х12МФ. Для заказа доступны ножи из N690, но без черного покрытия, т.к. N690 –нержавеющая сталь. Не является холодным оружием.Для ножен мы используем кожу растительного дубления, методы выделки которой не менялись более 100 лет. Все ножны изготовлены под конкретный нож и прошиты вручную седельным швом не гниющей полиамидной нитью. Ножны для каждого ножа индивидуально окрашены вручную проникающими красками SAPHIRE (Франция). В конце мы пропитываем ножны смесью восков и масел, для защиты кожи от влаги.</description>
+            </offer>
+            <offer id="16" available="true">
+                <name>Браслет женский из натуральной кожи</name>
+                <url>https://handybeast.com/браслет-женский-из-натуральной-кожи</url>
+                <price>490</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/60/e3/b0b2011a3457076ea6e1c6ac9d62--ukrasheniya-braslet-zhenskij-iz-naturalnoj-kozhi.jpg</picture>
+                <description>Кожаный женский браслет - это элегантный и практичный аксессуар, который идеально подойдет для женщин, стремящихся добавить изысканности и стиля в свою одежду. Этот браслет, широкий и удобный на руке, создан с использованием высококачественных материалов и ручной работы.Наша небольшая мастерская Handy Beast создает вещи ручной работы. При изготовлении браслета используется итальянская кожа BUTTERO растительного дубления. Кожа плотная, хорошо держит форму и имеет защитное покрытие защищающее ее от влаги.Размер 18-20 см</description>
+            </offer>
+            <offer id="17" available="true">
+                <name>R1 Опоссум</name>
+                <url>https://handybeast.com/r1-опоссум</url>
+                <price>12500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/32/89/e24c91e46024de04bf5f4f5d72o6--suveniry-i-podarki-r1-opossum.jpg</picture>
+                <description>Внешне достаточно агрессивен. Мощный лагерник с большой удобной рукоятью. Геометрия рукояти способствует хорошему удержанию ножа при интенсивной работе. В дополнение присутствуют монтажные отверстия на клинке, через которые можно пропустить шнурок для дополнительной фиксации кисти руки, при работе ножом «на воде».Накладки на рукояти выполнены из G-10 или микарты, что позволяет ей выдерживать перепады температур и влияние влажности, в отличии от деревянных накладок. Длина клинка и его ширина достаточна для выполнения большинства работ. Хорошо лежит в руке и приятен глазу.Это флагман нашей линейки. Наша визитная карточка. Нож прошел несколько реинкарнаций, прежде чем его форма и размеры окончательно нас устроили. После закалки клинок имеет твердость 59-61 ед. по Роквеллу. По нашему мнению это оптимальная твердость для рабочего ножа. Увеличение твердости ведет к повышению хрупкости, что критично при ударных нагрузках. Снижение твердости не позволяет ножу долго держать заточку. Хотя, при этом нож гораздо легче точить в полевых условиях.В базовой версии нож идет из стали D2/Х12МФ. Для заказа доступны ножи из N690, но без черного покрытия, т.к. N690 –нержавеющая сталь.Кожаные ножны формуются влажным способом, чтобы соответствовать каждому ножу индивидуально. Мы используем кожу растительного дубления, методы выделки которой не менялись более 100 лет. Все ножны изготовлены под конкретный нож и прошиты вручную седельным швом не гниющей полиамидной нитью. Ножны для каждого ножа индивидуально окрашены вручную проникающими красками SAPHIRE (Франция). В конце мы пропитываем ножны смесью восков и масел, для защиты кожи от влаги</description>
+            </offer>
+            <offer id="18" available="true">
+                <name>Нож "Клоп"</name>
+                <url>https://handybeast.com/нож-"клоп"</url>
+                <price>6900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/0f/5b/58a5424b7b98b3b1b3be8d3f0apd--suveniry-i-podarki-nozh-klop.jpg</picture>
+                <description>Нож кованый. Сталь D2. Толстый, маленький, мощный. Ножны с возможностью горизонтального и вертикального подвеса. Рукоять G10. Ножны из толстой кожи растительного дубления, пропитка воском.Возможно изготовление с накладками из разных пород дерева, микарты.</description>
+            </offer>
+            <offer id="19" available="true">
+                <name>Мухобойка- Блек Джек</name>
+                <url>https://handybeast.com/мухобойка--блек-джек</url>
+                <price>5500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/fa/54/94c5eec8aee9b70075153e1b216w--suveniry-i-podarki-muhobojka-blek-dzhek.jpg</picture>
+                <description>Мухобойка, известная, как слеппер, блекджек. Вес около 400 г. Не является холодным оружием. Наполнение- дробь.Орудие тихого "вырубания" из америки гангстерских времен. В оригинале- внутри зашита свинцовая бляшка. В таком суровом виде обладает страшным ударом и является холодным оружием дробящего действия.Материал из интернета:"Kill or Get Killed", Rex Applegate (стр. 317-319):БлэкджекВ дополнение к дубинке, много офицеров полиции носят как предмет выхода «из положения» или персонального выбора блэкджек (слэпджек, сэп, убедитель, миротворец, билли).Удар. В подавлении опасных преступников с блэкджеком, удары обычно направлены против головы. Удары в лицо вызовут тяжёлые ушибы и могут сломать кости в лицевой структуре, но не всегда достаточно оглушают. Блэкджек наилучшим образом используется против верхней части обратной стороны головы.Нужно запомнить, что блэкджек является опасным инструментом, когда использован неправильно или слишком решительно</description>
+            </offer>
+            <offer id="20" available="true">
+                <name>Набор ножей для работы с кожей</name>
+                <url>https://handybeast.com/набор-ножей-для-работы-с-кожей</url>
+                <price>5200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/64/dd/bc45f8e821cd3305ec2f5957c1uz--suveniry-i-podarki-nabor-nozhej-dlya-raboty-s-kozhej.jpg</picture>
+                <description>Набор для работы с кожей. Сталь D2 Твердость 61-63 по Роквеллу. Односторонняя заточка</description>
+            </offer>
+            <offer id="21" available="true">
+                <name>Ключница формованная</name>
+                <url>https://handybeast.com/ключница-формованная</url>
+                <price>2500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/89/86/15d9b7735cc67f000eb8201c9e40--sumki-i-aksessuary-klyuchnitsa-formovannaya.jpg</picture>
+                <description>Ключница из кожи растительного дубления. Формовка. Полностью ручная работа, седельный шов. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="22" available="true">
+                <name>Коробочка для перстня/кольца</name>
+                <url>https://handybeast.com/коробочка-для-перстня/кольца</url>
+                <price>1500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/4c/37/0eb55ce6f437a967509a6ff801ho--svadebnyj-salon-korobochka-dlya-perstnya-koltsa.jpg</picture>
+                <description>Футляр из кожи растительного дубления. Полностью ручная работа. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="23" available="true">
+                <name>Картхолдер "Автостопщик"</name>
+                <url>https://handybeast.com/картхолдер-"автостопщик"</url>
+                <price>1800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/66/3a/091a2078bcf3bcce31e0000c81sf--sumki-i-aksessuary-kartholder-avtostopschik.jpg</picture>
+                <description>Картхолдер из кожи растительного дубления. Два отделения под карты, одно под купюры. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="24" available="true">
+                <name>Картхолдер гитариста</name>
+                <url>https://handybeast.com/картхолдер-гитариста</url>
+                <price>2300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/00/0d/f84519ae6965ff3cdbfb8506dcp6--sumki-i-aksessuary-kartholder-gitarista.jpg</picture>
+                <description>Картхолдеры для хранения различного количества карт. " отделения под карты, одно под купюры + отделение для медиатора. Натуральная кожа растительного дубления, ручная прошивка. " отделения под карты, одно под купюры. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="25" available="true">
+                <name>Футляр для документов охотника</name>
+                <url>https://handybeast.com/футляр-для-документов-охотника</url>
+                <price>2350</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/b7/d0/7dea580f28ed61b6f75596a9c1ym--sumki-i-aksessuary-futlyar-dlya-dokumentov-ohotnika.jpg</picture>
+                <description>Идеальный подарок охотнику. Входит пара охотничьих билетов, РОХа. Толстая кожа растительного дубления, формовка, тонирование. Ручной седельный шов. Сдеоаны два отверстия с люверсами, под шнурок. Можно носить на шее. Возможно нанесение логотипов, инициалов и тд.</description>
+            </offer>
+            <offer id="26" available="true">
+                <name>Сербский нож</name>
+                <url>https://handybeast.com/сербский-нож</url>
+                <price>9500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/79/95/2644d51bf7beb8401c71720e44da--aktivnyj-otdyh-i-razvlecheniya-serbskij-nozh.jpg</picture>
+                <description>Эта модель изготавливается из стали марки 440С (95х18) Ковка. Твердость HRC 58-60Могучий хухонник для шинковки. Ножны из толстой кожи. Ручной шов.</description>
+            </offer>
+            <offer id="27" available="true">
+                <name>Кошелек</name>
+                <url>https://handybeast.com/кошелек</url>
+                <price>3200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/33/6f/a867abef2e83675a8b85a1c73ay9--sumki-i-aksessuary-koshelek.jpg</picture>
+                <description>Мощный винтажный кошель из толстой кожи. Известен как кошелек Уолтера Митти из фильма "Невероятная жизнь Уолтера Митти".Отделение для купюр и кредиток. Ручной шов, состаренная кожа. Кошель вечный. Со временем становится все потертее и красивее.</description>
+            </offer>
+            <offer id="28" available="true">
+                <name>Мухобойка - Блек Джек черная</name>
+                <url>https://handybeast.com/мухобойка---блек-джек-черная</url>
+                <price>5500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/ea/cd/78ae372420f07b2c3a49e76014ob--suveniry-i-podarki-muhobojka-blek-dzhek-chernaya.jpg</picture>
+                <description>Мухобойка, известная, как слиппер, слеппер, блекджек. Вес около 500 г. Не является холодным оружием.Орудие тихого "вырубания" из америки гангстерских времен. В оригинале- внутри зашита свинцовая бляшка. В таком суровом виде обладает страшным ударом и является холодным оружием дробящего действия. Данная версия- с дробью.Материал из интернета:"Kill or Get Killed", Rex Applegate (стр. 317-319):БлэкджекВ дополнение к дубинке, много офицеров полиции носят как предмет выхода «из положения» или персонального выбора блэкджек (слэпджек, сэп, убедитель, миротворец, билли)". Билли, сэр)))Нужно запомнить, что блэкджек является опасным инструментом, когда использован неправильно или слишком решительно</description>
+            </offer>
+            <offer id="29" available="true">
+                <name>Портмоне под автодокументы</name>
+                <url>https://handybeast.com/портмоне-под-автодокументы</url>
+                <price>3200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/55/16/e60f78ed46ea50ef43e83954086u--sumki-i-aksessuary-portmone-pod-avtodokumenty.jpg</picture>
+                <description>Портмоне под автодокументы. Отделения под карты/права, паспорт, техпаспорт, купюры. Натуральная кожа, ручная прошивка. Возможны  разные цвета кожи, ниток.  Нанесение лазером рисунков, логотипов, инициалов и надписей.</description>
+            </offer>
+            <offer id="30" available="true">
+                <name>Ремень с портупейной пряжкой.</name>
+                <url>https://handybeast.com/ремень-с-портупейной-пряжкой.</url>
+                <price>4200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/0b/bf/f4caeae460d47723bb2230bebffx--aksessuary-remen-s-portupejnoj-pryazhkoj.jpg</picture>
+                <description>Мы делаем ремни только из натуральной кожи высочайшего качества, которая прослужит вам долгие годы. Не спилок, не прессовка, не кожзам. Только цельный кусок толстой кожи.Обрабатываем ремни только натуральными восками и маслами. Прошиваем вручную седельным швом.Пряжка - литая латунь, производство США, патинирование. Никакой силумини и прочей гадости. Только олдскул.Каждый ремень упаковывается в подарочную упаковку.Длина ремня делается по вашим размерам. Возможно нанесение логотопов, инициалов и тд</description>
+            </offer>
+            <offer id="31" available="true">
+                <name>Ремешок для часов Apple Watch 44мм</name>
+                <url>https://handybeast.com/ремешок-для-часов-apple-watch-44мм</url>
+                <price>2650</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/5b/67/ca43c8feaf1e0a00f2a35c864bnu--ukrasheniya-remeshok-dlya-chasov-apple-watch-44mm.jpg</picture>
+                <description>Ремешок из кожи BUTTERO, ручная работа.BUTTERO это кожа растительного дубления с Full Grain лицом.Кожа плотная, хорошо держит форму и имеет фабричное защитное покрытие защищающее ее от влаги.Лицо имеет глубокий цвет и благородную матовую поверхность.</description>
+            </offer>
+            <offer id="32" available="true">
+                <name>Нож R11 Бушкрафт</name>
+                <url>https://handybeast.com/нож-r11-бушкрафт</url>
+                <price>9000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/5b/93/b11b48e3e69ec0a555495efa42w4--suveniry-i-podarki-nozh-r11-bushkraft.jpg</picture>
+                <description>Более короткая версия ножа R10. Классический бушкрафт. Достаточно традиционной формы, ничего лишнего, только то, что необходимо. Классика. Удобная рукоять, ровно настолько, чтобы не быть слишком короткой или длинной. Длина клинка оптимальна, в совокупности с шириной и толщиной обуха, что позволяет комфортно строгать и резать, разрушать и создавать одновременно. Накладки на рукояти выполнены из G-10 или микарты, что позволяет ей выдерживать перепады температур и влияние влажности, в отличии от деревянных накладок. После закалки клинок имеет твердость 59-61 ед. по Роквеллу. По нашему мнению это оптимальная твердость для рабочего ножа. Увеличение твердости ведет к повышению хрупкости, что критично при ударных нагрузках. Снижение твердости не позволяет ножу долго держать заточку. Хотя, при этом нож гораздо легче точить в полевых условиях. В базовой версии нож идет из стали D2/Х12МФ. Для заказа доступны ножи из N690, но без черного покрытия, т.к. N690 –нержавеющая сталь.Кожаные ножны формуются влажным способом, чтобы соответствовать каждому ножу индивидуально. Мы используем кожу растительного дубления, методы выделки которой не менялись более 100 лет. Все ножны изготовлены под конкретный нож и прошиты вручную седельным швом не гниющей полиамидной нитью. Ножны для каждого ножа индивидуально окрашены вручную проникающими красками SAPHIRE (Франция). В конце мы пропитываем ножны смесью восков и масел, для защиты кожи от влаги.</description>
+            </offer>
+            <offer id="33" available="true">
+                <name>Топор "Монолит-2"</name>
+                <url>https://handybeast.com/топор-"монолит-2"</url>
+                <price>7500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <description>Вес 790г.Обух 8.5ммДлина лезвия 8смДлина всего 23.5Накладки g10Сталь х12мфЧехол- кожа растительного дубления</description>
+            </offer>
+            <offer id="34" available="true">
+                <name>Кошелек на медных клепках</name>
+                <url>https://handybeast.com/кошелек-на-медных-клепках</url>
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/ef/2d/4bd9b7f6054aa3ab2c4ab441f39m--sumki-i-aksessuary-koshelek-na-mednyh-klepkah.jpg</picture>
+                <description>Кожа растительного дубления 1.3 мм толщиной, ручной седельный шов, медные клепки. 4 отделений под карты, одно полноразмерное для купюр. Тонирование, тиснение. Возможно нанести ваши инициалы.</description>
+            </offer>
+            <offer id="35" available="true">
+                <name>Нож R3</name>
+                <url>https://handybeast.com/нож-r3</url>
+                <price>13000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/0d/fe/0c158c3fdecaa343ce5a9b8e34eq--aktivnyj-otdyh-i-razvlecheniya-nozh-r3.jpg</picture>
+                <description>Эта модель изготавливается из стали марки Х12МФ или ее американского аналога - марки D2. Ковка. Спуски от обуха, прямые. Ножны из толстой растишки. Ручной шов.</description>
+            </offer>
+            <offer id="36" available="true">
+                <name>Картхолдер</name>
+                <url>https://handybeast.com/картхолдер</url>
+                <price>950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/3d/1f/2856b96d6aadf35b791f45b2206m--sumki-i-aksessuary-kartholder.jpg</picture>
+                <description>Картхолдеры для хранения различного количества карт. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="37" available="true">
+                <name>Картхолдер для карт памяти</name>
+                <url>https://handybeast.com/картхолдер-для-карт-памяти</url>
+                <price>2100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/c9/d3/d1571095657b1507df56449890j7--sumki-i-aksessuary-kartholder-dlya-kart-pamyati.jpg</picture>
+                <description>Картхолдер для карт памяти. 6 отсеков. Незаменимая и стильная вещь для фотографов, видеооператоров. Возможно нанесение логотипов, инициалов и тд</description>
+            </offer>
+            <offer id="38" available="true">
+                <name>Нож R2</name>
+                <url>https://handybeast.com/нож-r2</url>
+                <price>11500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/2d/68/e08931f22780d711ab9a97bb041y--suveniry-i-podarki-nozh-r2.jpg</picture>
+                <description>При разработке этой модели стояла задача сделать ее выносливой к нагрузкам и одновременно визуально легче своих собратьев. И это удалось. Легкие стремительные формы клинка, при толщине его обуха, вселяют уверенность что нож отработает на все 100. Удобная рукоять позволяет работать разными хватами. Накладки на рукояти выполнены из G-10 или микарты, что позволяет ей выдерживать перепады температур и влияние влажности, в отличии от деревянных накладок. После закалки клинок имеет твердость 59-61 ед. по Роквеллу. По нашему мнению это оптимальная твердость для рабочего ножа. Увеличение твердости ведет к повышению хрупкости, что критично при ударных нагрузках. Снижение твердости не позволяет ножу долго держать заточку. Хотя, при этом нож гораздо легче точить в полевых условиях. В базовой версии нож идет из стали D2/Х12МФ. Для заказа доступны ножи из N690, но без черного покрытия, т.к. N690 –нержавеющая сталь. Не является холодным оружием.Кожаные ножны формуются влажным способом, чтобы соответствовать каждому ножу индивидуально. Мы используем кожу растительного дубления, методы выделки которой не менялись более 100 лет. Все ножны изготовлены под конкретный нож и прошиты вручную седельным швом не гниющей полиамидной нитью. Ножны для каждого ножа индивидуально окрашены вручную проникающими красками SAPHIRE (Франция). В конце мы пропитываем ножны смесью восков и масел, для защиты кожи от влаги.</description>
+            </offer>
+            <offer id="39" available="true">
+                <name>Поясная сумка</name>
+                <url>https://handybeast.com/поясная-сумка</url>
+                <price>5300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/f0/b0/2a4a01e0c5adb497a8d2ebbbacf0--sumki-i-aksessuary-poyasnaya-sumka.jpg</picture>
+                <description>Сумка - легенда. Известна со времен средневековья. Итальянская кожа растительного дубления, ручной седельный шов, Латунная фурнитура.</description>
+            </offer>
+            <offer id="40" available="true">
+                <name>Ножны сложные типа "бушкрафт"</name>
+                <url>https://handybeast.com/ножны-сложные-типа-"бушкрафт"</url>
+                <price>4200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/5c/ea/6255c8b330f426e3fb4fcd0349y6--suveniry-i-podarki-nozhny-slozhnye-tipa-bushkraft.jpg</picture>
+                <description>Сложные ножны для мощного ножа из кожи растительного дубления, толщиной 3 мм. Полностью ручная сборка. Есть возможной горизонтальной носки, вертикальной и вверх ногами ( на рюкзаке). Кармашек для точильного камня / огнива. Пропитаны смесью восков.</description>
+            </offer>
+            <offer id="41" available="true">
+                <name>Сумка женская</name>
+                <url>https://handybeast.com/сумка-женская</url>
+                <price>28000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/9f/cb/a0d2fb68698763d58cd47712c10j--sumki-i-aksessuary-sumka-zhenskaya.jpg</picture>
+                <description>Сумка - легенда. Итальянская кожа растительного дубления, ручной седельный шов, Латунная фурнитура.</description>
+            </offer>
+            <offer id="42" available="true">
+                <name>Нож R3</name>
+                <url>https://handybeast.com/нож-r3</url>
+                <price>13000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/63/34/49c00a54394fef7b8a7ba5d1c5nc--aktivnyj-otdyh-i-razvlecheniya-nozh-r3.jpg</picture>
+                <description>Эта модель изготавливается из стали марки Х12МФ или ее американского аналога - марки D2. Ковка. Спуски от обуха, прямые. Ножны из толстой растишки. Ручной шов.</description>
+            </offer>
+            <offer id="43" available="true">
+                <name>Нож R5</name>
+                <url>https://handybeast.com/нож-r5</url>
+                <price>12500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/11/db/a90f616900ef620e23f13fd0b809--suveniry-i-podarki-nozh-r5.jpg</picture>
+                <description>Нож крепыш, с широким клинком. Выглядит ломовитым, как и было задумано. Ножом можно не только резать, строгать но и выламывать, не боясь сломать острие клинка . Форма рукояти не позволяет руке ерзать взад и вперед. Кисть буквально фиксируется. При его размерах нож удобен на охоте при разделке туш и как экстремально — туристический. Накладки на рукояти выполнены из G-10 или микарты, что позволяет ей выдерживать перепады температур и влияние влажности, в отличии от деревянных накладок. После закалки клинок имеет твердость 59-61 ед. по Роквеллу. По нашему мнению это оптимальная твердость для рабочего ножа. Увеличение твердости ведет к повышению хрупкости, что критично при ударных нагрузках. Снижение твердости не позволяет ножу долго держать заточку. Хотя, при этом нож гораздо легче точить в полевых условиях. В базовой версии нож идет из стали D2/Х12МФ. Для заказа доступны ножи из N690, но без черного покрытия, т.к. N690 –нержавеющая сталь.Кожаные ножны формуются влажным способом, чтобы соответствовать каждому ножу индивидуально. Мы используем кожу растительного дубления, методы выделки которой не менялись более 100 лет. Все ножны изготовлены под конкретный нож и прошиты вручную седельным швом не гниющей полиамидной нитью. Ножны для каждого ножа индивидуально окрашены вручную проникающими красками SAPHIRE (Франция). В конце мы пропитываем ножны смесью восков и масел, для защиты кожи от влаги.</description>
+            </offer>
+            <offer id="44" available="true">
+                <name>Обложка на паспорт</name>
+                <url>https://handybeast.com/обложка-на-паспорт</url>
+                <price>2600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/25/d6/b3445379ded7cd9b1f26f458a4zs--sumki-i-aksessuary-oblozhka-na-pasport.jpg</picture>
+                <description>Обложка для паспорта из толстой рыжей кожи. Ручная прошивка. По желанию клиента можно оформить в подарочную упаковку из тонкой кожи. Возможно нанесение лазерной гравировки</description>
+            </offer>
+            <offer id="45" available="true">
+                <name>Дорожный паспорт</name>
+                <url>https://handybeast.com/дорожный-паспорт</url>
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/51/ac/efb2b8ecb18837476ae65e41f3ls--sumki-i-aksessuary-dorozhnyj-pasport.jpg</picture>
+                <description>Дорожный паспорт с подвесом для тех, кто часто путешествует. Входит 2 паспорта, пару карт/ права. Возможно нанесение инициалов, логотипов, телефонов.</description>
+            </offer>
+            <offer id="46" available="true">
+                <name>Футляр для очков</name>
+                <url>https://handybeast.com/футляр-для-очков</url>
+                <price>2500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/ef/a3/cde8e2540ec6b7149544b8e0aeyc--sumki-i-aksessuary-futlyar-dlya-ochkov.jpg</picture>
+                <description>Футляр для очков из толстой натуральной кожи рыжего цвета. Ручная работа. Застежка- кобурная кнопка (шпенек) из латуни. Пропитка смесью восков. Возможно в черном цвете.</description>
+            </offer>
+            <offer id="47" available="true">
+                <name>Кошель "Мошна"</name>
+                <url>https://handybeast.com/кошель-"мошна"</url>
+                <price>2950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/45/49/15872878d48fc6bf76c2f25c5cbu--sumki-i-aksessuary-koshel-moshna.jpg</picture>
+                <description>Минималистичный кошелек без швов из натуральной кожи растительного дубления. Три отсека. Стильная и удобная вещь.</description>
+            </offer>
+            <offer id="48" available="true">
+                <name>Чехол для ножей</name>
+                <url>https://handybeast.com/чехол-для-ножей</url>
+                <price>2600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/33/c0/3283de414c2e511ad6cfce6fcas9--suveniry-i-podarki-chehol-dlya-nozhej.jpg</picture>
+                <description>Чехлы под складные ножи, мультитулы. Неубиваемые, выполнены из толстой (3-4мм) бычьей кожи растительного дубления. Размеры под ваш нож. Цвет кожи черный, коричневый, светлый( если не красить). Нитки любых цветов. Прошивка вручную седельным швом.</description>
+            </offer>
+            <offer id="49" available="true">
+                <name>Нож R10 Бушкрафт</name>
+                <url>https://handybeast.com/нож-r10-бушкрафт</url>
+                <price>9000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/b4/78/bcc905d38a2833a99ab1ac13cdmd--suveniry-i-podarki-nozh-r10-bushkraft.jpg</picture>
+                <description>Достаточно традиционной формы, ничего лишнего, только то, что необходимо. Классика. Удобная рукоять, ровно настолько, чтобы не быть слишком короткой или длинной. Длина клинка оптимальна, в совокупности с шириной и толщиной обуха, что позволяет комфортно строгать и резать, разрушать и создавать одновременно. Накладки на рукояти выполнены из G-10 или микарты, что позволяет ей выдерживать перепады температур и влияние влажности, в отличии от деревянных накладок. После закалки клинок имеет твердость 59-61 ед. по Роквеллу. По нашему мнению это оптимальная твердость для рабочего ножа. Увеличение твердости ведет к повышению хрупкости, что критично при ударных нагрузках. Снижение твердости не позволяет ножу долго держать заточку. Хотя, при этом нож гораздо легче точить в полевых условиях. В базовой версии нож идет из стали D2/Х12МФ. Для заказа доступны ножи из N690, но без черного покрытия, т.к. N690 –нержавеющая сталь.Кожаные ножны формуются влажным способом, чтобы соответствовать каждому ножу индивидуально. Мы используем кожу растительного дубления, методы выделки которой не менялись более 100 лет. Все ножны изготовлены под конкретный нож и прошиты вручную седельным швом не гниющей полиамидной нитью. Ножны для каждого ножа индивидуально окрашены вручную проникающими красками SAPHIRE (Франция). В конце мы пропитываем ножны смесью восков и масел, для защиты кожи от влаги.</description>
+            </offer>
+            <offer id="50" available="true">
+                <name>Чехол для зажигалки "Кастет"</name>
+                <url>https://handybeast.com/чехол-для-зажигалки-"кастет"</url>
+                <price>1750</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs1.livemaster.ru/storage/fe/d8/b31edb52f58b4f2e44cf7612322b--sumki-i-aksessuary-chehol-dlya-zazhigalki-kastet.jpg</picture>
+                <description>Чехол для зажигалки в форме кастета. Отформован из кожи растительного дубления, пропитка натуральными восками. Оригинальная и веселая вещь. Отличный подарок.</description>
+            </offer>
+            <offer id="51" available="true">
+                <name>Портмоне</name>
+                <url>https://handybeast.com/портмоне</url>
+                <price>5800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs5.livemaster.ru/storage/57/0d/277236994ffb95db945f79a9a3zq--sumki-i-aksessuary-portmone.jpg</picture>
+                <description>Портмоне из толстой итальянской кожи растительного дубления, ручные швы.Раскрывается на две створки и фиксируется на кнопки. Три больших отделения, два кармашка для кредиток. Обработка воском</description>
+            </offer>
+            <offer id="52" available="true">
+                <name>Ключница</name>
+                <url>https://handybeast.com/ключница</url>
+                <price>1100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/f8/19/036d1594f61fd0b59afa634ea0xw--sumki-i-aksessuary-klyuchnitsa.jpg</picture>
+                <description>Ключницы из кожи растительного дубления. Полностью ручная работа, седельный шов. Цвета- черный и оттенки коричневого. Цвет ниток- любой. Возможно нанесение вашего логотипа</description>
+            </offer>
+            <offer id="53" available="true">
+                <name>Папки для бумаг</name>
+                <url>https://handybeast.com/папки-для-бумаг</url>
+                <price>12600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://cs2.livemaster.ru/storage/54/86/4a1d39161e54d34cc750a05bade9--sumki-i-aksessuary-papki-dlya-bumag.jpg</picture>
+                <description>Папка для бумаг из толстой кожи. Пропитка натуральными восками. Со временем, в процессе эксплуатации становится винтажнее и красивее.</description>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
